@@ -9,4 +9,4 @@ Another Simple Music player for Android. The player scans the phone's system mem
 * 
 
 ## Possible Modifications :
-* [x] Building the listView using a CursorAdapter can save time when the Playlist is opened. <br>Scan the fileSystem once -> Store in a SQLite DB --> Extract data using CursorAdapter.
+* [x] Building the listView using a CursorAdapter can save time when the Playlist is opened. <br>i.e. Scan the fileSystem once -> Store in a SQLite DB --> Extract data using CursorAdapter.
