@@ -11,4 +11,6 @@ Another Simple Music player for Android. The player scans the phone's system mem
 * [x] Currently the whole fileSystem is scanned eachtime for Building the listView for building the playlist. Hence takes a long time. Building the listView using a **CursorAdapter** can save time when the Playlist is opened each time. <br>i.e. Scan the fileSystem once -> Store data in an SQLite DB -> Extract data using CursorAdapter.
 * [x] Adding **Shuffle/Repeat** Support.
 * [x] Using a **Custom listView** for better playlist UI.
+* [x] **Auto-Database update** for updating music DB each time a new file is added.
 * [x] **Splash Screen**
+* [x] **Notifications** 
