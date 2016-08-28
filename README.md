@@ -14,3 +14,7 @@ Another Simple Music player for Android. The player scans the phone's system mem
 * [x] **Auto-Database update** for updating music DB each time a new file is added.
 * [x] **Splash Screen**
 * [x] **Notifications** 
+* [x] **Responsive Design** to support Multiple Screen Sizes <br><br>
+
+## Video Explanation : <br>
+<img src='http://i.imgur.com/jIZAtU1.gif' title='Video Explanation' width='' alt='Video Explanation' />
